@@ -2,4 +2,85 @@
 <xbel version="1.0"
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
-></xbel>
+>
+  <bookmark href="file:///root/my_photo.jpg" added="2026-10-05T20:33:15.765572Z" modified="2026-10-05T20:33:15.765599Z" visited="2026-10-05T20:33:15.765583Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-10-05T20:33:15.765594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///root/uploads/IMG_20250802_140308.jpg" added="2026-10-05T20:33:43.448249Z" modified="2026-10-05T20:33:43.448264Z" visited="2026-10-05T20:33:43.448252Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-10-05T20:33:43.448256Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///system/lib64/aaudio-aidl-cpp.so" added="2026-10-05T20:36:56.907652Z" modified="2026-10-05T20:36:56.907662Z" visited="2026-10-05T20:36:56.907655Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-sharedlib"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-10-05T20:36:56.907658Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///system/apex/com.android.apex.cts.shim.apex" added="2026-10-05T20:50:44.594248Z" modified="2026-10-05T20:50:44.594262Z" visited="2026-10-05T20:50:44.594251Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-10-05T20:50:44.594255Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///system/vendor/etc/audio/sku_parrot/audio_effects.conf" added="2026-10-05T20:58:10.355151Z" modified="2026-10-05T20:58:18.963259Z" visited="2026-10-05T20:58:10.355153Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 4:23;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-10-05T20:58:10.355156Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2026-10-05T20:58:18.963253Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///bin/X11/%5B" added="2026-10-05T20:59:29.619996Z" modified="2026-10-05T20:59:30.399823Z" visited="2026-10-05T20:59:29.619998Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-10-05T20:59:30.399813Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///lib/pam.d/polkit-1" added="2026-10-05T21:02:13.050400Z" modified="2026-10-05T21:02:17.138390Z" visited="2026-10-05T21:02:13.050403Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-10-05T21:02:13.050408Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2026-10-05T21:02:17.138384Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

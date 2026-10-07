@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="chrome://global/skin/design-system/tokens-brand.css">
     <link rel="stylesheet" href="chrome://newtab/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Sun, 04 Oct 2026 18:02:23 GMT -->
+  <!-- Cached: Mon, 05 Oct 2026 21:22:21 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -61,9 +61,9 @@ window.__STARTUP_STATE__ = {
 		"rows": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 20959,
+				"frecency": 20976,
 				"guid": "EEApq-3nDgo0",
-				"lastVisitDate": 1791136234630,
+				"lastVisitDate": 1791136949402,
 				"title": "YouTube",
 				"url": "https://www.youtube.com/",
 				"type": "history",
@@ -2596,4 +2596,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-•;O           jÂ”¯J rÿÿÿÿ       :about:home alt-data 1;26176,script version 20260923073912     ìø
+÷˜I¦Å           jÄJ'Şÿÿÿÿ       :about:home alt-data 1;26176,script version 20260923073912     ìø
