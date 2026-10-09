@@ -1,0 +1,145 @@
+IP                   : 127.0.0.1
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+
+IP                   : 127.0.0.1
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+IP                   : 127.0.0.1
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+
+IP                   : 127.0.0.1
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+
+IP                   : 127.0.0.1
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+IP                   : 127.0.0.1
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+
+IP                   : 127.0.0.1
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+
+IP                   : 127.0.0.1
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+IP                   : 127.0.0.1
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+
+IP                   : 127.0.0.1
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+
+IP                   : 127.0.0.1
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+IP                   : 127.0.0.1
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+
+IP                   : 66.249.81.101
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Google-Lens
+Version              : 
+Browser              : Unknown Browser
+Location             : Amsterdam, Netherlands, Europe
+GeoLocation(lat, lon): 52.374028, 4.8896881
+Currency             : Euro
+
+IP                   : 66.249.81.100
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Google-Lens
+Version              : 
+Browser              : Unknown Browser
+Location             : Amsterdam, Netherlands, Europe
+GeoLocation(lat, lon): 52.374028, 4.8896881
+Currency             : Euro
+
+IP                   : 57.129.127.7
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Limburg an der Lahn, Germany, Europe
+GeoLocation(lat, lon): 50.3836499, 8.0503254
+Currency             : Euro
+
+IP                   : 57.129.127.7
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Limburg an der Lahn, Germany, Europe
+GeoLocation(lat, lon): 50.3836499, 8.0503254
+Currency             : Euro
+
+IP                   : 57.129.127.7
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Limburg an der Lahn, Germany, Europe
+GeoLocation(lat, lon): 50.3836499, 8.0503254
+Currency             : Euro
+
+IP                   : 66.249.93.34
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Google-Lens
+Version              : 
+Browser              : Unknown Browser
+Location             : Brussels, Belgium, Europe
+GeoLocation(lat, lon): 50.8504459, 4.3487837
+Currency             : Euro
+
+IP                   : 57.129.127.7
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Limburg an der Lahn, Germany, Europe
+GeoLocation(lat, lon): 50.3836499, 8.0503254
+Currency             : Euro
+
+IP                   : 57.129.127.7
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Limburg an der Lahn, Germany, Europe
+GeoLocation(lat, lon): 50.3836499, 8.0503254
+Currency             : Euro
+IP                   : 57.129.127.7
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Limburg an der Lahn, Germany, Europe
+GeoLocation(lat, lon): 50.3836499, 8.0503254
+Currency             : Euro
+

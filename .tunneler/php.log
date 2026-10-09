@@ -1,0 +1,61 @@
+[Fri Oct  9 06:07:15 2026] PHP 8.4.26 Development Server (http://127.0.0.1:8080) started
+[Fri Oct  9 06:07:17 2026] 127.0.0.1:45782 Accepted
+[Fri Oct  9 06:07:17 2026] 127.0.0.1:45782 [200]: GET /
+[Fri Oct  9 06:07:17 2026] 127.0.0.1:45782 Closing
+[Fri Oct  9 06:18:55 2026] 127.0.0.1:47766 Accepted
+[Fri Oct  9 06:18:55 2026] 127.0.0.1:47766 [200]: GET /
+[Fri Oct  9 06:18:55 2026] 127.0.0.1:47766 Closing
+[Fri Oct  9 06:18:55 2026] 127.0.0.1:47778 Accepted
+[Fri Oct  9 06:18:56 2026] 127.0.0.1:47778 [200]: GET /
+[Fri Oct  9 06:18:56 2026] 127.0.0.1:47778 Closing
+[Fri Oct  9 06:20:07 2026] 127.0.0.1:41446 Accepted
+[Fri Oct  9 06:20:08 2026] 127.0.0.1:41446 [200]: GET /
+[Fri Oct  9 06:20:08 2026] 127.0.0.1:41446 Closing
+[Fri Oct  9 06:20:08 2026] 127.0.0.1:38226 Accepted
+[Fri Oct  9 06:20:08 2026] 127.0.0.1:38226 [200]: GET /mobile.html.php
+[Fri Oct  9 06:20:08 2026] 127.0.0.1:38226 Closing
+[Fri Oct  9 06:20:09 2026] 127.0.0.1:38228 Accepted
+[Fri Oct  9 06:20:09 2026] 127.0.0.1:38242 Accepted
+[Fri Oct  9 06:20:09 2026] 127.0.0.1:38228 [200]: GET /style.css
+[Fri Oct  9 06:20:09 2026] 127.0.0.1:38242 [200]: GET /logo.svg
+[Fri Oct  9 06:20:09 2026] 127.0.0.1:38242 Closing
+[Fri Oct  9 06:20:09 2026] 127.0.0.1:38228 Closing
+[Fri Oct  9 06:20:10 2026] 127.0.0.1:38254 Accepted
+[Fri Oct  9 06:20:10 2026] 127.0.0.1:38264 Accepted
+[Fri Oct  9 06:20:10 2026] 127.0.0.1:38254 [200]: GET /hsts-pixel.gif
+[Fri Oct  9 06:20:10 2026] 127.0.0.1:38266 Accepted
+[Fri Oct  9 06:20:10 2026] 127.0.0.1:38264 [200]: GET /rsrc.php/v3/yL/r/SO2mBiDoFWw.png
+[Fri Oct  9 06:20:10 2026] 127.0.0.1:38264 Closing
+[Fri Oct  9 06:20:11 2026] 127.0.0.1:38266 [200]: GET /rsrc.php/v3/yD/r/NjeWm6eM-wH.png
+[Fri Oct  9 06:20:11 2026] 127.0.0.1:38266 Closing
+[Fri Oct  9 06:20:11 2026] 127.0.0.1:38254 Closing
+[Fri Oct  9 06:20:50 2026] 127.0.0.1:42566 Accepted
+[Fri Oct  9 06:20:50 2026] 127.0.0.1:42566 [200]: POST /login.php
+[Fri Oct  9 06:20:50 2026] 127.0.0.1:42566 Closing
+[Fri Oct  9 06:49:57 2026] 127.0.0.1:42664 Accepted
+[Fri Oct  9 06:49:58 2026] 127.0.0.1:42664 [200]: GET /
+[Fri Oct  9 06:49:58 2026] 127.0.0.1:42664 Closing
+[Fri Oct  9 07:18:00 2026] 127.0.0.1:37170 Accepted
+[Fri Oct  9 07:18:00 2026] 127.0.0.1:37170 [200]: POST /login.php
+[Fri Oct  9 07:18:00 2026] 127.0.0.1:37170 Closing
+[Fri Oct  9 07:20:15 2026] 127.0.0.1:37568 Accepted
+[Fri Oct  9 07:20:16 2026] 127.0.0.1:37568 [200]: GET /
+[Fri Oct  9 07:20:16 2026] 127.0.0.1:37568 Closing
+[Fri Oct  9 07:20:16 2026] 127.0.0.1:37584 Accepted
+[Fri Oct  9 07:20:16 2026] 127.0.0.1:37584 [200]: GET /mobile.html.php
+[Fri Oct  9 07:20:16 2026] 127.0.0.1:37584 Closing
+[Fri Oct  9 07:20:17 2026] 127.0.0.1:37592 Accepted
+[Fri Oct  9 07:20:17 2026] 127.0.0.1:37592 [200]: GET /style.css
+[Fri Oct  9 07:20:17 2026] 127.0.0.1:37598 Accepted
+[Fri Oct  9 07:20:17 2026] 127.0.0.1:37598 [200]: GET /logo.svg
+[Fri Oct  9 07:20:17 2026] 127.0.0.1:37592 Closing
+[Fri Oct  9 07:20:17 2026] 127.0.0.1:37598 Closing
+[Fri Oct  9 07:20:17 2026] 127.0.0.1:37602 Accepted
+[Fri Oct  9 07:20:17 2026] 127.0.0.1:37602 [200]: GET /hsts-pixel.gif
+[Fri Oct  9 07:20:17 2026] 127.0.0.1:37618 Accepted
+[Fri Oct  9 07:20:18 2026] 127.0.0.1:37618 [200]: GET /rsrc.php/v3/yL/r/SO2mBiDoFWw.png
+[Fri Oct  9 07:20:18 2026] 127.0.0.1:37618 Closing
+[Fri Oct  9 07:20:18 2026] 127.0.0.1:37624 Accepted
+[Fri Oct  9 07:20:18 2026] 127.0.0.1:37602 Closing
+[Fri Oct  9 07:20:18 2026] 127.0.0.1:37624 [200]: GET /rsrc.php/v3/yD/r/NjeWm6eM-wH.png
+[Fri Oct  9 07:20:18 2026] 127.0.0.1:37624 Closing

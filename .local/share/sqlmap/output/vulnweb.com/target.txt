@@ -1,0 +1,1 @@
+http://vulnweb.com (GET)  # /usr/share/sqlmap/sqlmap.py -u http://vulnweb.com --dbs --disable-coloring

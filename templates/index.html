@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>موقع تحميل المسلسلات والألعاب</title>
+</head>
+<body style="font-family: sans-serif; text-align: center; background-color: #f4f4f9; padding: 20px;">
+    <h1>مرحباً بك في موقع التحميل الخاص بي</h1>
+    <p>اختر ما تريد تحميله بروابط مباشرة داتمة:</p>
+    
+    <div style="max-width: 500px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        {% for item in items %}
+        <div style="margin-bottom: 20px; padding: 15px; border-bottom: 1px solid #ddd;">
+            <h3 style="color: #333;">{{ item.title }}</h3>
+            <a href="{{ item.link }}" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">اضغط هنا للتحميل المباشر</a>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>
+
